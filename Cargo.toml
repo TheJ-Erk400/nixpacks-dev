@@ -47,7 +47,7 @@ console = { default-features = false, version = "0.15.2" }
 box_drawing = "0.1.2"
 textwrap = { default-features = false, version = "0.16.0" }
 cargo_toml = "0.13.0"
-rand = "0.8.5"
+rand = "0.8.6"
 path-slash = "0.2.1"
 ignore = "0.4.18"
 actix-web = "4.2.1"
@@ -55,7 +55,7 @@ sanitize-filename = "0.4.0"
 futures-util = "0.3.25"
 futures = "0.3.25"
 portpicker = "0.1.1"
-tokio = { version = "1.23.0", features = ["full"] }
+tokio = { version = "1.25.3", features = ["full"] }
 async-trait = "0.1.59"
 semver = "1.0.14"
 node-semver = "2.1.0"
